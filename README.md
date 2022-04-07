@@ -14,6 +14,6 @@ Para o projeto, foi escolhido as seguintes ferramentas:
 - Plataforma: Databricks 📊
 - Data lake: DBFS 💾
 - Linguagem: Spark e python ⚙
-- Dashboard : Power BI
-- Deploy: Streamlit
+- Dashboard : Power BI 📈
+- Deploy: Streamlit 😁
  A fonte de dados utilizada, foi fornecida pelo Kaggle no link: https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
