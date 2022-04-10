@@ -50,3 +50,9 @@ Para o projeto, foi escolhido as seguintes ferramentas:
 <p align="left">
   <img alt="arquitetura" src="github/arquitetura.png" width="60%">
 </p>
+
+## 📊 Dashboard
+
+<p align="left">
+  <img alt="dashboard" src="github/image 5.png" width="60%">
+</p>
