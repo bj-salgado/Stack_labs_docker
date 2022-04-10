@@ -5,7 +5,7 @@ Projeto realizado durante a segunda edição do stack labs, nessa edição o des
 Para a realização do projeto, o squad foi dividido da seguinte forma:
 
   <img alt="matheus" src="github/Component 1 (1).png" width="60%"><br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href=""><img alt="git" src="github/image 3.png" width="3%"></a>   &emsp; <img alt="git" src="github/logo git.png" width="3%">
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://www.linkedin.com/in/matheus-marques-/"><img alt="git" src="github/image 3.png" width="3%"></a>   &emsp; <img alt="git" src="github/logo git.png" width="3%">
 
 
 
