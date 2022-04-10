@@ -20,3 +20,7 @@ Para o projeto, foi escolhido as seguintes ferramentas:
  A fonte de dados utilizada, foi fornecida pelo Kaggle no link: https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
 
 ## 🏰 Arquitetura do projeto
+
+<p align="left">
+  <img alt="arquitetura" src="github/arquitetura.png" width="60%">
+</p>
