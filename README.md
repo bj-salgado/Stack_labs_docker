@@ -56,3 +56,7 @@ Para o projeto, foi escolhido as seguintes ferramentas:
 <p align="left">
   <img alt="dashboard" src="github/image 5.png" width="60%">
 </p>
+<br>
+<p align="left">
+  <img alt="dashboard" src="github/image 5.png" width="60%">
+</p>
