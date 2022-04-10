@@ -3,9 +3,17 @@
 Projeto realizado durante a segunda edição do stack labs, nessa edição o desafio propostos foi um sistema de classificação de clientes que podem se interessar por seguros de veículos. 
 
 Para a realização do projeto, o squad foi dividido da seguinte forma:
-- Engenharia de dados: Matheus Marques
-- Ciência de dados : Bruno Salgado e Matheus Marques
-- Análise de dados: Bibiana Prevedello 
+
+  <img alt="matheus" src="github/Component 1 (1).png" width="60%"><br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img alt="git" href="https://www.linkedin.com/in/matheus-marques-/" src="github/image 3.png" width="3%">   &emsp; <img alt="git" src="github/logo git.png" width="3%">
+
+
+
+
+
+
+
+
 
 
 ## 🚀 Começando
