@@ -18,3 +18,5 @@ Para o projeto, foi escolhido as seguintes ferramentas:
 - Deploy: Streamlit 😁
 
  A fonte de dados utilizada, foi fornecida pelo Kaggle no link: https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
+
+## 🏰 Arquitetura do projeto
