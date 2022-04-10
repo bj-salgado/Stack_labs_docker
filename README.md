@@ -2,7 +2,7 @@
 
 Projeto realizado durante a segunda edição do stack labs, nessa edição o desafio propostos foi um sistema de classificação de clientes que podem se interessar por seguros de veículos. 
 
-Para a realização do projeto, o squad foi dividido da seguinte forma:
+Para a realização do projeto, o equipe foi dividido da seguinte forma:
 
 
 <p align="left">
