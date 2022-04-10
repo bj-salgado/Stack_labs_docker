@@ -5,7 +5,7 @@ Projeto realizado durante a segunda edição do stack labs, nessa edição o des
 Para a realização do projeto, o squad foi dividido da seguinte forma:
 - Engenharia de dados: Matheus Marques
 - Ciência de dados : Bruno Salgado e Matheus Marques
-- Análise de dados: Bibiana Prevedello e Leandro
+- Análise de dados: Bibiana Prevedello 
 
 
 ## 🚀 Começando
